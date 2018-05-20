@@ -1,0 +1,35 @@
+body{
+	font-family: 'Roboto';
+}
+
+
+.d1{
+	background-color: #fefcda;
+	height: 400px;
+	width: 32%;
+	position: absolute;
+
+	
+
+}
+
+.h5{
+ 	font-weight: bold;
+ 	color: #a09f97;
+ 	position: relative;
+ 	top: 10px;
+}
+
+p{
+	color: #6e9ecf;
+}
+
+.ic{
+		color: #a09f97;
+		margin-right: 20px;
+}
+
+.ci{
+		color: #a09f97;
+		margin-right: 15px;
+}

@@ -1,0 +1,143 @@
+body{
+	margin: 5px 0px;
+	font-family: 'Roboto', sans-serif;
+
+}
+header{
+	cursor: pointer;
+
+}
+header .div1{
+	text-align: right;
+	font-weight: bold;
+}
+header input{
+	border: 1px solid #164468;
+
+}
+header .p{
+	color: #164468;
+	padding-left: 30px;
+}
+header .p1{
+	color: #164468;
+
+}
+header .slash{
+	padding: 0px 5px;
+}
+header .number{
+	color: #164468;
+	padding: 0px 20px;
+}
+header .p2{
+	color: #164468;
+	background-color: #c0cb24;
+	padding: 5px 15px;
+}
+header .div2{
+	text-align: center;
+	background-color: #164468;
+	color: white;
+	padding: 20px;
+	margin-top: 3px;
+	position: relative;
+}
+header .div2 span{
+	padding: 5px;
+}
+footer{
+	background-color: #e5e2e2;
+	height: 300px;
+	padding-left: 170px;
+	position: absolute;
+	top: 85px;
+	display: none;
+	left: 0px;
+	width: 100%; 
+	font-weight: bold;
+}
+footer div{
+	display: inline-block;
+	padding: 15px 40px;
+	float: left;
+}
+footer .div1-serach .p1{
+	color: #164468;
+}
+footer .div1-serach .p2{
+	color: #164468;
+	margin-top: -10px;
+	padding-bottom: 15px;
+	margin-left: -13px;
+	background-color: #e5e2e2;
+
+}
+footer .div1-serach .p3{
+	color: #78aed5;
+	border: 1px solid #0b79c7;
+	text-align: center;
+	padding: 5px 2px;
+	font-size: 12px;
+	width: 170px;	
+	background-color: white;
+}
+
+footer .div2-request .p1{
+	color: #164468;
+}
+footer .div2-request .p2{
+	color: #164468;
+	margin-top: -10px;
+	padding-bottom: 15px;
+	background-color: #e5e2e2;
+
+}
+footer .div2-request .p3{
+	color: #78aed5;
+	border: 1px solid #0b79c7;
+	text-align: center;
+	padding: 5px 2px;
+	font-size: 12px;
+	width: 170px;	
+	background-color: white;
+
+}
+footer .div3-hss .p1{
+	color: #164468;
+}
+footer .div3-hss .p3{
+	color: #78aed5;
+	border: 1px solid #0b79c7;
+	text-align: center;
+	padding: 5px 2px;
+	font-size: 12px;
+	width: 170px;	
+	background-color: white;
+
+}
+
+footer .div3 img{
+	margin-top: 90px;
+	padding: 0 10px;
+}
+footer span{
+	margin-left: 20px;
+	margin-top: 10PX;
+	float: right;
+	width: 170px;
+	color: #78aed5;
+}
+h1{
+	background-color: #2a88cf;
+	color: white;
+	display: inline-block;
+	padding: 13px 5px;
+	position: absolute;
+	top: -8px;
+	left: 15px;
+}
+header:hover footer{
+	display: inline-block;
+	cursor: pointer;	
+}

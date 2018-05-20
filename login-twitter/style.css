@@ -1,0 +1,57 @@
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+.phone, .password{
+	padding: 10px 150px 10px 5px;
+	border: 1px solid #f8f2f2;
+	border-radius: 3px;
+}
+.password{
+	margin-top: 20px;
+}
+p button{
+	color: white;
+	background-color: #34a1f2;
+	border-radius: 50px;
+	border: 0px;
+	padding: 10px 20px;
+	font-weight: bold;
+}
+.p1 .span1{
+	color: #868383;
+}
+.p1 .span2{
+	color: #74acf9;
+}
+.p1{
+	margin-top: 35px;
+}
+.p2 .span1{
+	color: #868383;
+}
+.p2 .span2{
+	color: #74acf9;
+}
+.p2{
+	margin-top: 20px;
+}
+.p3 .span1{
+	color: #868383;
+}
+.p3 .span2{
+	color: #74acf9;
+}
+.p3{
+	margin-top: 20px;
+}
+footer{
+	background-color: #f5f8fa;
+	padding: 15px 0px;
+}
+header{
+	margin-left: 100px;
+}
+footer{
+	padding-left: 100px;
+}

@@ -1,0 +1,105 @@
+body{
+	margin: 0px;
+}
+div{
+	padding: 14px 10px;
+}
+div:nth-child(1) :nth-child(1){
+	display: block;
+	background: #fef11a;
+	padding: 15px 80px 60px 10px;
+	width: 235px;
+}
+div:nth-child(1) :nth-child(2){
+	background: #fef11a;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(1) :nth-child(3){
+	background: #fef11a;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+div:nth-child(2) :nth-child(1){
+	background: #fefee6;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(2) :nth-child(2){
+	background: #fefee6;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+div:nth-child(3) :nth-child(1){
+	background: #fefcc2;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(3) :nth-child(2){
+	background: #fefcc2;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+div:nth-child(4) :nth-child(1){
+	background: #fdfa98;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(4) :nth-child(2){
+	background: #fdfa98;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+div:nth-child(5) :nth-child(1){
+	background: #fdf76c;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(5) :nth-child(2){
+	background: #fdf76c;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+div:nth-child(6) :nth-child(1){
+	background: #fef448;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(6) :nth-child(2){
+	background: #fef448;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+div:nth-child(7) :nth-child(1){
+	background: #fef11a;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(7) :nth-child(2){
+	background: #fef11a;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+div:nth-child(8) :nth-child(1){
+	background: #ffdc07;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(8) :nth-child(2){
+	background: #ffdc07;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+div:nth-child(9) :nth-child(1){
+	background: #ffc100;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(9) :nth-child(2){
+	background: #ffc100;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+div:nth-child(10) :nth-child(1){
+	background: #ffa500;
+	padding: 15px 120px 15px 10px;
+}
+div:nth-child(10) :nth-child(2){
+	background: #ffa500;
+	padding: 15px 10px 15px 100px;
+    margin-left: -5px;
+}
+
+
+

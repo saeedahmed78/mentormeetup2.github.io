@@ -1,0 +1,105 @@
+div{
+	border: 2px solid #ebebd5;
+	margin-top: 0;
+	margin-left: 5%;
+	margin-right: 73%;
+
+	
+	
+
+}
+
+.id{
+	margin-right: 10px;
+	border: none;
+}
+
+header{
+	background: linear-gradient(to right, #00cc91, #0088e0);
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+	color: white; 
+}
+
+h4{
+	color: #0f73d5;
+}
+.s2{
+	font-weight: bold;
+	color: #828c93;
+}
+
+p{
+	color: #828c93;
+	font-size: 14px;
+
+}
+
+.p1{
+	color: #09b56c;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.s1{
+	font-weight: bold;
+
+}
+.em{
+	font-size: 15px;
+}
+
+.s3{
+	color: #e5b62e;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.p2{
+	color: #879ba9;
+}
+
+button{
+	background-color: #d4e5f3;
+	color: #5180c5;
+	font-weight: bold;
+	border: none;
+	padding: 5px;
+	font-size: 12px;
+
+}
+
+.b1{
+	background-color: #0083ff;
+	color: white;
+	padding: 8px;
+	border-radius: 3px;
+}
+
+
+
+#icon{
+	display: none;
+	color: blue;
+	background-color: #898d93;
+	border-radius: 5em;
+	margin-left: 240px;
+	margin-top: -10px;
+	color: white;
+	border: 1px solid #898d93;
+	 
+	 
+}
+
+section:hover #icon{
+	cursor: pointer;
+	display: inline-block;
+	position: fixed;
+	
+}
+
+
+#icon:active{
+	background-color: #697076;
+}
